@@ -4,7 +4,7 @@ let month = date.getMonth();
 let day = date.getDate();
 let currentDate = day+'-'+month;
  
-let gitHubRawUrl = '//raw.githubusercontent.com'
+let gitHubRawUrl = '//raw.githubusercontent.com/ikatolici/all-saints-dictionary/master/static/img/'
 
 let croU = {
     "c_caron": decodeURI('%C4%8C'),
@@ -429,7 +429,7 @@ let quotes = {
     '1-11': {
         'quote':    '„Kada sam shvatio kako Bog postoji, shvatio sam ujedno i kako mi ne preostaje ništa drugo doli Njemu jedino služiti.“', 
         'author':   'bl. Charles de Foucauld', 
-        'image':    'all-saints-dictionary/static/img/quotes_64.jpg' ,
+        'image':    gitHubRawUrl+'quotes_64.jpg' ,
         'saints':    ['<a href=""><p>Sveti Edmund Campion</p></a>', '<a href=""><p>Sveti Eligije</p></a>', '<a href=""><p>Sveti Šimun Cirenac</p></a>', '<a href=""><p>Blaženi Charles de Foucauld</p></a>', '<a href=""><p>Sveti Nahum</p></a>'],    
     },
     'day-11': {
