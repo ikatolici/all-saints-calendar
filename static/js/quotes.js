@@ -4,7 +4,9 @@ let month = date.getMonth();
 let day = date.getDate();
 let currentDate = day+'-'+month;
  
-let croU = {
+let gitHubRawUrl = '//raw.githubusercontent.com'
+
+/* let croU = {
     "c_caron": decodeURI('%C4%8C'),
     "c_acute": decodeURI('%C4%86'),
     "d_stroke": decodeURI('%C4%90'),
@@ -18,7 +20,7 @@ let croL = {
     "d_stroke": decodeURI('%C4%91'),
     "s_caron": decodeURI('%C5%A1'),
     "z_caron": decodeURI('%C5%BE')
-}
+} */
 
 /* Dictionary */      
 let quotes = {
