@@ -429,7 +429,7 @@ let quotes = {
     '1-11': {
         'quote':    '„Kada sam shvatio kako Bog postoji, shvatio sam ujedno i kako mi ne preostaje ništa drugo doli Njemu jedino služiti.“', 
         'author':   'bl. Charles de Foucauld', 
-        'image':    'https://static.tumblr.com/e1vmzwc/hVfpz1ty9/quotes_63.jpg' ,
+        'image':    'all-saints-dictionary/static/img/quotes_64.jpg' ,
         'saints':    ['<a href=""><p>Sveti Edmund Campion</p></a>', '<a href=""><p>Sveti Eligije</p></a>', '<a href=""><p>Sveti Šimun Cirenac</p></a>', '<a href=""><p>Blaženi Charles de Foucauld</p></a>', '<a href=""><p>Sveti Nahum</p></a>'],    
     },
     'day-11': {
