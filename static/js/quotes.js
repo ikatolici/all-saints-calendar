@@ -6,7 +6,7 @@ let currentDate = day+'-'+month;
  
 let gitHubRawUrl = '//raw.githubusercontent.com'
 
-/* let croU = {
+let croU = {
     "c_caron": decodeURI('%C4%8C'),
     "c_acute": decodeURI('%C4%86'),
     "d_stroke": decodeURI('%C4%90'),
@@ -20,7 +20,7 @@ let croL = {
     "d_stroke": decodeURI('%C4%91'),
     "s_caron": decodeURI('%C5%A1'),
     "z_caron": decodeURI('%C5%BE')
-} */
+}
 
 /* Dictionary */      
 let quotes = {
@@ -426,6 +426,186 @@ let quotes = {
 
     
     // December      - 11
+    '1-11': {
+        'quote':    '„Kada sam shvatio kako Bog postoji, shvatio sam ujedno i kako mi ne preostaje ništa drugo doli Njemu jedino služiti.“', 
+        'author':   'bl. Charles de Foucauld', 
+        'image':    'https://static.tumblr.com/e1vmzwc/hVfpz1ty9/quotes_63.jpg' ,
+        'saints':    ['<a href=""><p>Sveti Edmund Campion</p></a>', '<a href=""><p>Sveti Eligije</p></a>', '<a href=""><p>Sveti Šimun Cirenac</p></a>', '<a href=""><p>Blaženi Charles de Foucauld</p></a>', '<a href=""><p>Sveti Nahum</p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Bog svaki trenutak iznova stvara svijet.“', 
+        'author':   'bl. Ivan Ruysbroeck', 
+        'image':    'https://static.tumblr.com/e1vmzwc/5rxpz1unc/quotes_64.jpg' ,
+        'saints':    ['<a href=""><p>Sveta Bibijana</p></a>', '<a href=""><p>Blaženi Ivan Ruysbroeck</p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
+    'day-11': {
+        'quote':    '„Quote of the saint or a good replacement from the Bible“', 
+        'author':   'Quote author', 
+        'image':    'Image url' ,
+        'saints':    ['<a href=""><p></p></a>'],    
+    },
     'day-11': {
         'quote':    '„Quote of the saint or a good replacement from the Bible“', 
         'author':   'Quote author', 
