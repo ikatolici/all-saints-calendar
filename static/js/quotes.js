@@ -32,7 +32,7 @@ let quotes = {
     'day-(month-1)': {
         'quote':    '„Quote of the saint or a good replacement from the Bible“', 
         'author':   'Quote author', 
-        'image':    'Image url' ,
+        'image':    gitHubRawUrl+'quotes_xx.jpg',
         'saints':    ['<a href=""><p></p></a>'],    
     }, */
     
@@ -119,7 +119,7 @@ let quotes = {
         'quote':    '„Ljudi su poput vina - neki postanu ocat, a drugi postaju bolji s godinama.“', 
         'author':   'sv. Ivan XXIII.', 
         'image':    'https://static.tumblr.com/e1vmzwc/MJepyyjvg/quotes_08.jpg' ,
-        'saints':    ['<a href=""><p>Sveti Ivan XXIII.</p></a>', '<a href=""><p>Sveti Daniele Comboni</p></a>', '<a href=""><p>Sveti Canice</p></a>'],    
+        'saints':    ['<a href="https://www.mladikatolici.net/post/188262717627/veliki-i-dobri-sveti-papa-ivan-xxiii"><p>Sveti Ivan XXIII.</p></a>', '<a href="https://www.mladikatolici.net/post/188263103967/sveti-daniel-comboni-misijski-velikan"><p>Sveti Daniele Comboni</p></a>', '<a href="https://www.mladikatolici.net/post/188263035897/sveti-canice-za%C5%A1titinik-brodolomaca"><p>Sveti Canice</p></a>'],    
     },
     '12-9': {
         'quote':    '„Nemam ništa osim krunice i kri'+croL["z_caron"]+'a, ali se nadam da '+croL["c_acute"]+'u i s tim koristiti fratrima i postati svetac.“', 
@@ -429,7 +429,7 @@ let quotes = {
     '1-11': {
         'quote':    '„Kada sam shvatio kako Bog postoji, shvatio sam ujedno i kako mi ne preostaje ništa drugo doli Njemu jedino služiti.“', 
         'author':   'bl. Charles de Foucauld', 
-        'image':    gitHubRawUrl+'quotes_63.jpg' ,
+        'image':    gitHubRawUrl+'quotes_63.jpg',
         'saints':    ['<a href=""><p>Sveti Edmund Campion</p></a>', '<a href=""><p>Sveti Eligije</p></a>', '<a href=""><p>Sveti Šimun Cirenac</p></a>', '<a href=""><p>Blaženi Charles de Foucauld</p></a>', '<a href=""><p>Sveti Nahum</p></a>'],    
     },
     '2-11': {
