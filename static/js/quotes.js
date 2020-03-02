@@ -6,6 +6,9 @@ let currentDate = day+'-'+month;
  
 let gitHubRawUrl = '//raw.githubusercontent.com/ikatolici/all-saints-dictionary/master/static/img/'
 
+
+
+
 let croU = {
     "c_caron": decodeURI('%C4%8C'),
     "c_acute": decodeURI('%C4%86'),
