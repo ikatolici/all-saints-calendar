@@ -41,6 +41,24 @@ let quotes = {
     // February     - 1
     
     // March        - 2
+    '1-2': {
+        'quote':    '„Budite radosni i čuvajte svoju vjeru.“', 
+        'author':   'Sveti David Velški', 
+        'image':    '//static.tumblr.com/e1vmzwc/7GNq6k238/03_01.jpg',
+        'saints':    ['<a href="/post/611402936970543104/sveti-albin-angerski"><p>Sveti Albin Angerski</p></a>', '<a href="/post/611403118069022720/sveti-david-vel%C5%A1ki"><p>Sveti David Velški</p></a>', '<a href="/post/611403371397677056/bla%C5%BEeni-roger-le-fort-francuski-biskup-i"><p>Blaženi Roger le Fort</p></a>'],    
+    },
+    '2-2': {
+        'quote':    '„Nije zakonito razlikovati se ni jednom riječju od evanđeoskog i apostolskog nauka, ili razmišljati drukčije nego što su to blagoslovljeni apostoli i naši očevi učili i podučavali o Svetom pismu.“', 
+        'author':   'Sveti Simplicije', 
+        'image':    '//static.tumblr.com/e1vmzwc/paOq6k23b/03_02.jpg',
+        'saints':    ['<a href="/post/611460090470465536/sveta-janja-praška"><p>Sveta Janja Praška</p></a>', '<a href="/post/611459957815115776/sveti-simplicije-papa"><p>Sveti Simplicije</p></a>'],    
+    },
+    '3-2': {
+        'quote':    '„Gospodin će te voditi bez prestanka, sitit će te u sušnim krajevima. On će krijepiti kosti tvoje i bit ćeš kao vrt zaljeven, kao studenac kojem voda nikad ne presuši.“', 
+        'author':   'Iz 58, 11', 
+        'image':    '//static.tumblr.com/e1vmzwc/3wqq6k2e4/03_03.jpg',
+        'saints':    ['<a href="/post/611461016254103552/sveta-kunigunda-žena-njemačkog-kralja-i-sveca"><p>Sveta Kunigunda</p></a>', '<a href="/post/611461173197570048/blaženi-pierre-rené-rogue-svećenik-lazarist-i"><p>Blaženi Pierre-René Rogue</p></a>'],    
+    },
     
     // April        - 3
     
@@ -59,7 +77,7 @@ let quotes = {
         'quote':    '„Bog ne gleda na veličinu naših djela, nego samo na ljubav s kojom se ona obavljaju.“', 
         'author':   'sv. Terezija od Djeteta Isusa', 
         'image':    'https://static.tumblr.com/e1vmzwc/zYApyyz4a/quotes_32.jpg' ,
-        'saints':    ['<a href=""><p>Sveta Terezija od Djeteta Isusa</p></a>, <a href=""><p>Sveti Bavo iz Genta</p></a>'],    
+        'saints':    ['<a href=""><p>Sveta Terezija od Djeteta Isusa</p></a>', '<a href=""><p>Sveti Bavo iz Genta</p></a>'],    
     },
     '2-9': {
         'quote':    '„Domovina je tamo, gdje mogu čim više napraviti za Božju slavu i pomoći bližnjima.“', 
